@@ -9,7 +9,7 @@ What we have in here:
 
 {Human,computer}-readable timeline data in YAML, with useful attributes such as a good description, categories, importance etc. The need for selecting a reasonable subset for different zoom levels has been taken into account.
 
-The description tries very hard to be correct and informative, especially for cosmological events. (Actually, I am much better at cosmology than at history...)
+The description tries very hard to be correct and informative, while easy to understand, especially for cosmological events. (Actually, I am much better at cosmology than at history...)
 
 ## React component
 

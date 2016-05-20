@@ -1,0 +1,27 @@
+bigbang:
+    title: The Big Bang
+    when:
+        offset_from: 0
+        when: 0
+    hierarchy: [/, /cosmology]
+
+    short-description: |
+        The beginning of the Universe, of space and time and matter and everything.
+
+        The whole universe, and all of matter and energy, was condensed in a point, and it
+        immediately started expanding like crazy. It was hot and messy and didn't make much sense.
+
+    good-description: |
+        We have absolutely no idea what happened in the first $10^{-43}$ seconds, or why. At this
+        point, the energy density was so high that nothing we know is of use. Actually, TODO write a
+        good good description.
+
+inflation:
+    title: Cosmic inflation
+    when:
+        offset_from: 0
+        delta: [1e−36, 1e−33]
+    hierarchy: [/cosmology]
+
+    short-description: TODO
+    good-description: TODO
